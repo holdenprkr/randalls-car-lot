@@ -1,0 +1,11 @@
+C:\Users\holde\workspace\csharp\RandallsCarLot\obj\Debug\netcoreapp3.1\RandallsCarLot.csprojAssemblyReference.cache
+C:\Users\holde\workspace\csharp\RandallsCarLot\obj\Debug\netcoreapp3.1\RandallsCarLot.AssemblyInfoInputs.cache
+C:\Users\holde\workspace\csharp\RandallsCarLot\obj\Debug\netcoreapp3.1\RandallsCarLot.AssemblyInfo.cs
+C:\Users\holde\workspace\csharp\RandallsCarLot\bin\Debug\netcoreapp3.1\RandallsCarLot.exe
+C:\Users\holde\workspace\csharp\RandallsCarLot\bin\Debug\netcoreapp3.1\RandallsCarLot.deps.json
+C:\Users\holde\workspace\csharp\RandallsCarLot\bin\Debug\netcoreapp3.1\RandallsCarLot.runtimeconfig.json
+C:\Users\holde\workspace\csharp\RandallsCarLot\bin\Debug\netcoreapp3.1\RandallsCarLot.runtimeconfig.dev.json
+C:\Users\holde\workspace\csharp\RandallsCarLot\bin\Debug\netcoreapp3.1\RandallsCarLot.dll
+C:\Users\holde\workspace\csharp\RandallsCarLot\bin\Debug\netcoreapp3.1\RandallsCarLot.pdb
+C:\Users\holde\workspace\csharp\RandallsCarLot\obj\Debug\netcoreapp3.1\RandallsCarLot.dll
+C:\Users\holde\workspace\csharp\RandallsCarLot\obj\Debug\netcoreapp3.1\RandallsCarLot.pdb
